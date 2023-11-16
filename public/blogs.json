@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/mbKk6zL/the-cleveland-museum-of-art-5-I82l-Rgg-WO4-unsplash.jpg",
+      "title": "The Enigmatic Quest",
+      "author": "John Doe",
+      "author_img": "/src/assets/images/boy1.png",
+      "posted_date": "2023-11-06",
+      "reading_time": 9,
+      "hashtags": ["#fiction", "#adventure"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/1n2gKfH/ali-kazal-rr-AGoyr-IVKQ-unsplash.jpg",
+      "title": "Voyage to the Stars",
+      "author": "Jane Smith",
+      "author_img": "/src/assets/images/boy2.png",
+      "posted_date": "2023-11-07",
+      "reading_time": 8,
+      "hashtags": ["#sciencefiction", "#space"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/NLxKZht/jarno-colijn-2-HZd9-Hx-F0-X4-unsplash.jpg",
+      "title": "Whispers in the Shadows",
+      "author": "Alice Johnson",
+      "author_img": "/src/assets/images/girl1.jpg",
+      "posted_date": "2023-11-08",
+      "reading_time": 15,
+      "hashtags": ["#mystery", "#suspense"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/b6c83GD/chris-andrawes-9-RXf-Ie-Zkfm-U-unsplash.jpg",
+      "title": "Culinary Delights",
+      "author": "Bob Williams",
+      "author_img": "/src/assets/images/girl2.jpg",
+      "posted_date": "2023-11-09",
+      "reading_time": 10,
+      "hashtags": ["#cooking", "#recipes"]
+    }
+  ]
+  
